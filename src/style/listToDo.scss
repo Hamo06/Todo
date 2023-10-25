@@ -1,0 +1,14 @@
+.listWrapper {
+
+ div {
+   opacity: 0;
+ }
+  &:hover {
+
+    div {
+      opacity: 1;
+    }
+  }
+}
+
+
